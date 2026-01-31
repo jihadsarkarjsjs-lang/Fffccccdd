@@ -1,0 +1,7 @@
+{
+  "name": "Unity Earning Invoice System",
+  "description": "A professional invoice and account activation UI for the Unity Earning E-Learning Platform, featuring real-time preview and a minimalist corporate design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
